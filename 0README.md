@@ -5,17 +5,16 @@ file ini: 0README.md
 Repositori untuk file-file tugas pembuatan modul JF ADI tahun 2022
 
 Materi Pokok Modul Pelatihan JF ADI, sebagai berikut: 
-1. Pengertian Data Mining: Slamet Riyanto
-2. Metode Data Mining: Slamet Riyanto
-3.  Pola Data: Dimas Sony Dewantara
-4. Data Summerization: Dimas Sony Dewantara
-5. Kategorisasi Data: Lindung
-6. Data Rescalling: Lindung
-7. Data Scoring: Rifki Sadikin
-8. Missing Value: Hendro Subagyo
-9. Data Smothing: Hendro Subagyo
-10. Transformasi Data: Hendro Subagyo
-11. Praktik Data Mining
+1. Pengenalan Ilmu Data dalam Jabatan Fungsional Analis Data Ilmiah
+2. Penelusuran dan Pengelolaan Data dan Informasi Ilmiah
+3. Pengumpulan dan Persiapan Data
+4. Manajemen Data
+5. Basis Data
+6. Data Mining
+7. Analisis dan Interpretasi Data
+8. Teknik Visualisasi Data
+9. Rancangan Kerja Analis Data
+10. Materi lain terkait JF Analis Data Ilmiah
 
 Tim Penyusun Substantif
 * Hendro Subagyo
