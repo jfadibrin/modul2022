@@ -1,4 +1,4 @@
-#Praktikum Data Warehouse#
+# Praktikum Data Warehouse #
 
 Pada praktikum ini, kita akan melakukan praktikum sederhana dengan melakukan proses ETL dari sumber data ke sebuah penampungan data.  Anda saat ini bekerja sebagai seorang data scientist pada perusahaan XYZ saat ini anda ditugaskan untuk mengumpulkan daftar artikel atau berita dari media yang ada di Indonesia, sehingga anda dapat menjawab pertanyaan dibawah. Untuk itu silahkan ikut langkah - langkah berikut untuk menjawab pertanyaan dibawah.
 
